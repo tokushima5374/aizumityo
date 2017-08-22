@@ -1,5 +1,9 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やせるごみ,,,,#ea3b13
+金属,,,,#685ecf
+空きビン・ガラス類・陶器類,,,,#7fc6e4
+空き缶,,,,#bbe400
+廃プラスチック類,,,,#ff6e00
+新聞（チラシ）,,,,#27a047
+雑誌・ダンボール・紙パック,,,,#08b925
+ペットボトル,,,,#81d12e
